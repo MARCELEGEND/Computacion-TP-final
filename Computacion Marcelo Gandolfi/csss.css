@@ -1,0 +1,137 @@
+body{
+    background-color: #ffffff;
+}
+
+.elementos{
+    display: flex;
+    justify-content: center;
+    width: 55%;
+    margin: 20px auto;
+
+  
+    text-align: center;
+    color:#797979;
+    
+
+}
+.table{
+    margin-top: 15px;
+    display: inline-block;
+    border-collapse: collapse;
+}
+
+tr, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+h4{
+    color: #034c8a;
+}
+.element1{
+    background-color: #e4e4e4;
+}
+.element2{
+    background-color: #e3dfdf;
+}
+.element3{
+    background-color: #eae4e4;
+}
+
+ 
+
+#primerProducto, #segundoProducto, #tercerProducto, #cuartoProducto, #quintoProducto{
+ 
+    margin-left: 65px;
+    margin-top: 15px;
+   
+    
+}
+
+#nombreBotones, #formaPago, #totalPagar{
+    margin-left: 75px;
+}
+
+
+#print{
+    right: 50px;
+    position: absolute;
+}
+
+#pdf{
+    position: absolute;
+    right: 100px;
+    margin-right: 50px;
+}
+
+
+#cliente{
+    margin-left: 20px;
+}
+
+.cant{
+    text-align: center;
+}
+
+.labelCant{
+    margin-left: 15px;
+}
+
+table{
+    margin-top: 15px;
+    display: inline-block;
+    border-collapse: collapse;
+}
+
+tr, td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.tablaFinal{
+   border: none; 
+}
+#Pagar{
+    border: 1px solid black;  
+}
+#primerProducto{
+    display: inline-block;
+}
+#segundoProducto{
+    display: none;
+    
+}
+
+#tercerProducto{
+    display: none;
+}
+
+#cuartoProducto{
+    display: none;
+}
+
+#quintoProducto{
+    display: none;
+}
+
+#eliminarProducto{
+    display: none;
+}
+
+.botonesAgregar{
+    margin-left: 65px;
+}
+
+#nombreBotones{
+    background-color: yellow;
+}
+
+.botonesAgregar{
+    margin-top: 4px;
+}
+
+.tablaProductos{
+    margin-bottom: 4px;
+}
